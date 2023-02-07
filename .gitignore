@@ -1,0 +1,14 @@
+bin/
+container/
+log/
+logs/
+lib/
+target/
+.project
+.classpath
+.settings/
+.DS_Store
+.idea
+*.iml
+*.orig
+1000test.jsonl
